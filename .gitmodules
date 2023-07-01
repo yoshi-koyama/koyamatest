@@ -1,0 +1,3 @@
+[submodule "docker-mysql-hands-on"]
+    path = docker-mysql-hands-on
+    url = git@github.com:yoshi-koyama/koyamatest.git
